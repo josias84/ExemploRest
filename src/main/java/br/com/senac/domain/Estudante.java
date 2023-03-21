@@ -36,5 +36,9 @@ public class Estudante {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
+	public Long getId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
